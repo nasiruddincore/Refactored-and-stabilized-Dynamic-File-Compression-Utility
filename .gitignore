@@ -1,0 +1,25 @@
+# Python Runtime Compilation Artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment Isolation Maps
+venv/
+ENV/
+.env
+
+# System Database Store Elements
+.DS_Store
+Thumbs.db
+
+# Live Evaluation Processing Directories
+input_files/*
+compressed_files/*
+decompressed_files/*
+outputs/*
+*.dict
+*.tmp
+
+# IDE Context Elements
+.vscode/
+.idea/
